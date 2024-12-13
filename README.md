@@ -1,2 +1,2 @@
 # New project 
- Create the spotify clone 
+ Create the spotify clone.
